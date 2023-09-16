@@ -2,7 +2,14 @@
 <h3 align="center">A passionate full-stack developer</h3>
 
 
-- 🌱 I’m currently learning **React.js MongoDB**
+I am currently on a path to enhance my skills and expand my expertise. Here's what I'm currently focused on:
+
+- **AWS Associate Architect Certification:** I'm actively preparing for the AWS Associate Architect Certification to strengthen my cloud architecture knowledge and skills.
+
+- **Cloud DevOps Training:** I am enrolled in a comprehensive Cloud DevOps training program, where I'm gaining hands-on experience in deploying and managing cloud-based applications with best practices.
+
+- **Frontend Frameworks:** As part of my continuous learning journey, I'm exploring the world of frontend development. I have a keen interest in both Angular and React and plan to upskill myself in one of these popular frameworks to create dynamic and responsive user interfaces.
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
