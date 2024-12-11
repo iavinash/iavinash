@@ -25,3 +25,4 @@ I am currently on a path to enhance my skills and expand my expertise. Here's wh
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iavinash&show_icons=true&locale=en" alt="iavinash" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=iavinash&" alt="iavinash" /></p>
+[![GitHub Streak](https://streak-stats.demolab.com?user=iavinash&theme=transparent)](https://git.io/streak-stats)
